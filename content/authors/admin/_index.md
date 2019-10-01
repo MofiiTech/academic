@@ -18,18 +18,22 @@ organizations:
   url: "https://rpi.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning and computer vision, and I have a broader interest in general artificial intelligence.
 
 interests:
 - Machine Learning
-- Artificial Intelligence
 - Computer Vision
+- Artificial Intelligence
 
 education:
   courses:
-  - course: BSc in Computer Science and Mathematics
+  - course: B.S. in Computer Science and Mathematics
     institution: Rensselaer Polytechnic Institute
-    year: 2020
+    year: 2017 ~ 2020
+  - course: B.S. in Mathematics (transferred)
+    institution: Wuhan University, China
+    year: 2015 ~ 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
