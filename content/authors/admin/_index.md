@@ -66,6 +66,8 @@ email: "wufeim@gmail.com"
 user_groups:
 - Researchers
 - Visitors
+
+# I'd like to share this ML visualization with you :smile:. I marveled at this when I started ML a few years ago. It feels like the programs are alive and they are really learning from the world!
 ---
 
 I will be graduating from RPI with a dual major in computer science and mathematics in May 2020. My previous research focuses on feature learning and computer vision. I also have a broader interest in reinforcement learning and general artificial intelligence.
@@ -73,3 +75,4 @@ I will be graduating from RPI with a dual major in computer science and mathemat
 I have worked as research assistant in Prof. Bülent Yener's research group, where I am responsible for the feature learning on microstructures project. I have also worked in Prof. Lirong Xia's research group, during which I worked on the preference learning on human discussions with Farhad Moshin.
 
 After graduating from RPI, I will pursue a PhD degree in the area of artificial intelligence. Please contact me if you are interested in being my PhD advisor.
+
