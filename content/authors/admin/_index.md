@@ -29,9 +29,9 @@ interests:
 education:
   courses:
   - course: B.S. in Computer Science and Mathematics
-    institution: Rensselaer Polytechnic Institute
+    institution: Rensselaer Polytechnic Institute, US
     year: 2017 ~ 2020
-  - course: B.S. in Mathematics (transferred)
+  - course: B.S. in Mathematics (transferred to RPI)
     institution: Wuhan University, China
     year: 2015 ~ 2016
 
@@ -53,21 +53,23 @@ social:
   icon_pack: fab
   link: https://github.com/MofiiTech
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "wufeim@gmail.com"
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I will be graduating from RPI with a dual major in computer science and mathematics in May 2020. My previous research focuses on feature learning and computer vision. I also have a broader interest in reinforcement learning and general artificial intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have worked as research assistant in Prof. Bülent Yener's research group, where I am responsible for the feature learning on microstructures project. I have also worked in Prof. Lirong Xia's research group, during which I worked on the preference learning on human discussions with Farhad Moshin.
+
+After graduating from RPI, I will pursue a PhD degree in the area of artificial intelligence. Please contact me if you are interested in being my PhD advisor.

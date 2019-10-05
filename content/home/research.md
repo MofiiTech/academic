@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Research"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -23,28 +23,28 @@ date_format = "Jan 2006"
   company = "Department of CS, RPI"
   company_url = "https://rpi.edu"
   location = "Troy, NY"
-  date_start = "2017-05-20"
-  date_end = "2017-08-13"
+  date_start = "2019-09-01"
   description = """
-  Summer school in CS, courses include:
+  Advisor: Prof. Lirong Xia
 
-  * Intro to Computer Science
-  * Data Structures
-  * Discrete Mathematics
+  Summary:
+
+  * Preference learning and aggregation from natural languages
   """
 
 [[experience]]
   title = "Research Assistant"
-  company = "Data Science Research Lab, RPI"
+  company = "Data Science Research Center, RPI"
   company_url = "http://www.dsrc.rpi.edu"
   location = "Troy, NY"
-  date_start = "2018-10-01"
-  date_end = "2019-08-10"
+  date_start = "2018-09-01"
   description = """
-  Concentrations:
+  Advisor: Prof. Bülent Yener
 
-  * Computer Science: Research Track
-  * Mathematics: Operation Research
+  Summary:
+
+  * Feature learning with conditional GAN
+  * Microstructure characterization with computer vision
   """
 
 +++
