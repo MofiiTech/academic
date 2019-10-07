@@ -67,9 +67,9 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Below is just a sample post. I am still collecting my notes. Thanks.
+Below are some sample posts. I am still collecting my notes. Thanks.
 {{% /alert %}}
 
 {{% alert note %}}
-I included some of my thoughts in the note/alert blocks depending on the importance. There are some good *ideas* but mostly unverified. Leave me a comment if you find them interested! \:smile\:
+I included some of my thoughts in the note/alert blocks depending on the importance. There are some good *ideas* but mostly unverified. Leave me a message if you find them interested! \:smile\:
 {{% /alert %}}

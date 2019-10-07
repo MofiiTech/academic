@@ -31,6 +31,9 @@ education:
   - course: B.S. in Computer Science and Mathematics
     institution: Rensselaer Polytechnic Institute, US
     year: 2017 ~ 2020
+  - course: Summer Session in Computer Science
+    institution: Columbia University, US
+    year: 2017
   - course: B.S. in Mathematics (transferred to RPI)
     institution: Wuhan University, China
     year: 2015 ~ 2016

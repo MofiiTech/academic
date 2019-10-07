@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Experience"
+title = "experience"
 subtitle = ""
 
 # Date format for experience
@@ -19,21 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Department of CS, RPI"
-  company_url = "https://rpi.edu"
-  location = "Troy, NY"
-  date_start = "2019-09-01"
-  description = """
-  Advisor: Prof. Lirong Xia
-
-  Summary:
-
-  * Preference learning and aggregation from natural languages
-  """
-
-[[experience]]
-  title = "Research Assistant"
+  title = "Research Assitant"
   company = "Data Science Research Center, RPI"
   company_url = "http://www.dsrc.rpi.edu"
   location = "Troy, NY"
@@ -41,10 +27,25 @@ date_format = "Jan 2006"
   description = """
   Advisor: Prof. Bülent Yener
 
-  Summary:
+  Research:
 
-  * Feature learning with conditional GAN
-  * Microstructure characterization with computer vision
+  * Feature Learning with conditional GAN
+  * Microstructure Characterization with Computer Vision
+  * Predicting the Metastasis of Breast Cancer from Tissue Images
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Computer Science, RPI"
+  company_url = "https://science.rpi.edu/computer-science"
+  location = "Troy, NY"
+  date_start = "2019-09-01"
+  description = """
+  Advisor: Prof. Lirong Xia
+
+  Research:
+
+  * Preference Learning and Aggregation from Natural Languages
   """
 
 +++
